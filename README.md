@@ -28,6 +28,19 @@ cd ~/.openclaw/skills/
 git clone https://github.com/blessonism/github-explorer-skill.git github-explorer
 ```
 
+### 依赖 Skills（可选，增强体验）
+
+本 Skill 会调用以下 OpenClaw 内置工具（无需额外安装）：`web_search`、`web_fetch`、`browser`
+
+以下 Skills 为**可选依赖**，安装后可获得更强的搜索和内容提取能力：
+
+| Skill | 用途 | 安装 |
+|-------|------|------|
+| [search-layer](https://github.com/blessonism/search-layer-skill) | 多源搜索去重（Brave + Exa + Tavily 三源并行） | `npx skills add ...` |
+| [content-extract](https://github.com/blessonism/content-extract-skill) | 高保真内容提取（微信/知乎等反爬站点降级方案） | `npx skills add ...` |
+
+> 💡 缺少依赖 Skills 时，github-explorer 会自动降级为仅使用内置工具，核心功能不受影响。
+
 ### 使用方法
 
 安装后，直接对你的 OpenClaw Agent 说：
@@ -64,23 +77,6 @@ Agent 会自动触发 GitHub Explorer，执行多源采集和分析，输出完�
 | 📄 关联论文 | arXiv 链接 |
 | 📰 社区声量 | Twitter + 中文社区具体讨论 |
 | 💬 判断 | 主观评价和建议 |
-
-## 🔧 依赖
-
-### 内置工具（OpenClaw 自带）
-
-- `web_search` — Brave Search 检索
-- `web_fetch` — 网页内容抓取
-- `browser` — 动态页面渲染（备选）
-
-### 依赖 Skills（需额外安装）
-
-| Skill | 用途 | 安装 |
-|-------|------|------|
-| [search-layer](https://github.com/blessonism/search-layer-skill) | 多源搜索去重（Brave + Exa + Tavily 三源并行） | `npx skills add ...` |
-| [content-extract](https://github.com/blessonism/content-extract-skill) | 高保真内容提取（微信/知乎等反爬站点降级方案） | `npx skills add ...` |
-
-> 缺少依赖 Skills 时，github-explorer 会自动降级为仅使用内置工具，核心功能不受影响。
 
 ## 📝 设计哲学
 
